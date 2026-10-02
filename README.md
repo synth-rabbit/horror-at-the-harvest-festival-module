@@ -21,7 +21,7 @@ On Sqyre: game detail page, **MANAGE GAME**, **Manage Modules**, same field.
 
 Then enable the module in your world and open **Start Here** in the Narrator Notes pack.
 
-Version 0.2.0.
+Version 0.2.1.
 
 ## Notice
 

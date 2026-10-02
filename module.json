@@ -2,7 +2,7 @@
   "id": "horror-at-the-harvest-festival",
   "title": "Horror at the Harvest Festival",
   "description": "Table-side content for running the Legend in the Mist one-shot Horror at the Harvest Festival: Challenges, Journeys, six pregenerated Heroes, a Fellowship theme, scenes, handouts and Narrator cue cards. Unofficial; the full Narrator notes live outside Foundry.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -133,5 +133,5 @@
     }
   ],
   "manifest": "https://synth-rabbit.github.io/horror-at-the-harvest-festival-module/module.json",
-  "download": "https://synth-rabbit.github.io/horror-at-the-harvest-festival-module/horror-at-the-harvest-festival-0.2.0.zip"
+  "download": "https://synth-rabbit.github.io/horror-at-the-harvest-festival-module/horror-at-the-harvest-festival-0.2.1.zip"
 }
