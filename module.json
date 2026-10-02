@@ -1,0 +1,137 @@
+{
+  "id": "horror-at-the-harvest-festival",
+  "title": "Horror at the Harvest Festival",
+  "description": "Table-side content for running the Legend in the Mist one-shot Horror at the Harvest Festival: Challenges, Journeys, six pregenerated Heroes, a Fellowship theme, scenes, handouts and Narrator cue cards. Unofficial; the full Narrator notes live outside Foundry.",
+  "version": "0.2.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "mist-engine-fvtt",
+        "type": "system",
+        "compatibility": {
+          "minimum": "14.5.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "synth-rabbit"
+    }
+  ],
+  "packs": [
+    {
+      "name": "hhf-challenges",
+      "label": "Challenges and Journeys",
+      "path": "packs/hhf-challenges",
+      "type": "Actor",
+      "system": "mist-engine-fvtt",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hhf-heroes",
+      "label": "Heroes",
+      "path": "packs/hhf-heroes",
+      "type": "Actor",
+      "system": "mist-engine-fvtt",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hhf-themekits",
+      "label": "Theme Kits",
+      "path": "packs/hhf-themekits",
+      "type": "Item",
+      "system": "mist-engine-fvtt",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hhf-scenes",
+      "label": "Scenes",
+      "path": "packs/hhf-scenes",
+      "type": "Scene",
+      "system": "mist-engine-fvtt",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hhf-journal",
+      "label": "Narrator Notes",
+      "path": "packs/hhf-journal",
+      "type": "JournalEntry",
+      "system": "mist-engine-fvtt",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hhf-handouts",
+      "label": "Handouts",
+      "path": "packs/hhf-handouts",
+      "type": "JournalEntry",
+      "system": "mist-engine-fvtt",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hhf-tables",
+      "label": "Tables",
+      "path": "packs/hhf-tables",
+      "type": "RollTable",
+      "system": "mist-engine-fvtt",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Horror at the Harvest Festival",
+      "sorting": "m",
+      "color": "#3f5a2a",
+      "packs": [
+        "hhf-challenges",
+        "hhf-heroes",
+        "hhf-themekits",
+        "hhf-scenes",
+        "hhf-journal",
+        "hhf-handouts",
+        "hhf-tables"
+      ]
+    }
+  ],
+  "manifest": "https://synth-rabbit.github.io/horror-at-the-harvest-festival-module/module.json",
+  "download": "https://synth-rabbit.github.io/horror-at-the-harvest-festival-module/horror-at-the-harvest-festival-0.2.0.zip"
+}
